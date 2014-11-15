@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Name of the application. [CHAR LIMIT=35] -->
+    <string name="app_label">Bulgarian Phonetic Layout - Ext. Keyboards</string>
+
+    <!-- Keyboard layouts label, used to describe the set of all built-in layouts in the UI. [CHAR LIMIT=35] -->
+    <string name="keyboard_layouts_label">Bulgarian Phonetic Layout by marfl</string>
+
+    <!-- Bulgarian Phonetic keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_bulgarian_phonetic_label">Bulgarian Phonetic</string>
+</resources>
